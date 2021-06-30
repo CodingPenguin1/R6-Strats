@@ -61,7 +61,9 @@ As important as well-structured callouts are, the information they carry is more
 There is a very specific format callouts should follow. The format is as follows:
 
 `Operator` doing `action` at `location`
+
 or
+
 `Operator` at `location` doing `action`
 
 For example, "Smoke holding red stairs" clearly tells players that there is a player holding red stairs. The fact that the callout includes the word "holding" means that the enemy is actively covering those stairs. This means that no one should push red without backup. Had the callout been "Smoke on red stairs," there may be reason to push the staircase, if the Smoke is unaware. The operator name, Smoke, tells you a lot about how to approach the situation. Smoke is an anchor, which means he will likely stay in that position unless dislodged or incentivized to move through some other method, like heavy pressure from another angle. Smoke players often run the shotgun, meaning that if the fight can be taken at long range, it might be a free kill. At short range, however, an attacker would be running towards certain death. Note that one should never decide on a potential life-threatening decision on the difference between "holding" and "on" in a callout.
@@ -73,7 +75,9 @@ The team has a running joke of a former player's callout, "Jager vibing on catwa
 If you are assisting a teammate in killing an enemy by using a drone or camera to spot the target for them, callouts can follow a different format:
 
 `location` doing `action`
+
 or
+
 `location` `standing/crouching/prone` doing `action`
 
 In this situation, the operator name is either already known or irrelevant. The most pressing information is the location of the enemy. The faster you can provide your teammate with an accurate and detailed location of the enemy, the easier time your teammate will have taking them out.
