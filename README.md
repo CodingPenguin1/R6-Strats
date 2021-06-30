@@ -2,11 +2,15 @@
 
 ## Table of Contents
 
-[Terminology](#Terminology)
-[Callouts](#Callouts)
-[Attack Philosophy](#Attack-Philosophy)
-[Defense Philosophy](#Defense-Philosophy)
-[Strategies](#Strategies)
+[Terminology](#terminology)
+
+[Callouts](#callouts)
+
+[Attack Philosophy](#attack-Philosophy)
+
+[Defense Philosophy](#defense-Philosophy)
+
+[Strategies](#strategies)
 
 ## Terminology
 
