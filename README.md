@@ -1,5 +1,57 @@
 ## Purpose
 
+This website is intended to be a guide for all players actively on the [Wright State University Collegiate Esports Club's](https://discord.gg/smmV38d) team for [Rainbow Six: Siege](https://www.ubisoft.com/en-us/game/rainbow-six/siege). It is comprised of an in-depth guide guide to our [attack philosophy](#Attack-Philosophy)
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 ## Attack Philosophy
 
 ## Defense Philosophy
