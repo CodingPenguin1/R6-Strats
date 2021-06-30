@@ -1,12 +1,14 @@
 # WSU Rainbow Six: Siege Stratbook
 
-## Purpose
+## Table of Contents
 
-This website is intended to be a guide for all players actively on the [Wright State University Collegiate Esports Club's](https://discord.gg/smmV38d) team for [Rainbow Six: Siege](https://www.ubisoft.com/en-us/game/rainbow-six/siege). It is comprised of an in-depth guide guide to our [attack philosophy](#Attack-Philosophy), [defense philosophy](#Defense-Philosophy), and a detailed description of all our strategies.
+[Terminology](#Terminology)
+[Callouts](#Callouts)
+[Attack Philosophy](#Attack-Philosophy)
+[Defense Philosophy](#Defense-Philosophy)
+[Strategies](#Strategies)
 
 ## Terminology
-
-Definitions of commonly used terms are important to understand before continuing.
 
 ### Team Roles & Positions
 
@@ -34,21 +36,28 @@ On both attack and defense, each player has a particular role to play. Regardles
 
 ### Movement & Actions
 
-- Swinging
-- Pushing
-- Flanking
-- Quickpeeking
-- Holding
-- Pressuring
-- Falling back
+- Swinging - Moving across an opening with the intention of killing a target through it. Might return to the side the player was originally on, or go to the other side.
+- Peeking - Keeping tight to one side of an opening with the intention of killing a target through it, usually done by leaning towards the center of the opening. Peeker has the intention of quickly hiding.
+- Quickpeeking - Peeking, but by doing [this](https://www.youtube.com/watch?v=35WVcRvEWUA). Also known as the Shaiiko peek. Heavily exploits peeker's advantage. Less effective on LAN.
+- Crossing - Moving from one side of an opening to another with the sole intention of moving.
+- Flanking - Moving around a high-intensity area with the objective of creating a new flank to fight on.
+- Holding - Aiming through an opening with the intention of waiting for an enemy to swing, and to shoot them when they do.
+- Pressuring - "Throwing bullets" at an enemy. Shooting towards a target without exposing yourself much, but also without the intention of killing the target. Used to make a target fear your presence without actually exposing yourself to any risk.
+- Pushing - Actively moving forwards down a hall or across a room.
+- Falling back - Retreating towards a safer location
+- Drop - Jumping down a hatch, balcony, or other ledge. Implies a target has gone from one floor to the floor immediately below.
 
 ### Misc
 
-- Site
-- Utility
-- Refrag
-- Playing to live
-- Playing to die
+- Site - The bomb sites.
+- Utility - Primary gadgets, secondary gadgets, and drones.
+- Burning Utility - Using utility in a way that, while probably required, contributes little to nothing towards achieving the overall objective.
+- Refrag - Killing an enemy that just killed a teammate.
+- Stall - Waste time by forcing the enemy to burn utility.
+- Playing to live - Holding a position with the intention of falling back just before getting overwhelmed. Shoot with the intention of threatening more than killing. Try to stall the enemy.
+- Playing to die - Holding a position with the intention of giving it up only at the cost of your own life. Shoot with the intention of killing. May try to stall or try to immediately get a kill. Depends on the strategy.
+- Peeker's advantage - Your game client updates your movements before everyone else's clients. When you peek, you can see the area for a small window of time before an enemy watching your angle can see you. This gives you a slight, but noticable, advantage in a gunfight.
+- Pixel angle - An angle so thin, it is nearly impossible to see the person holding it from their target location. Do NOT peek a pixel angle. Can also be used to gather intel while remaining mostly hidden. Useful for turning what normally would be an angle to hold into one to swing, and therefore gain peekers advantage.
 
 ## Callouts
 
