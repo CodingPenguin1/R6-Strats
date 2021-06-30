@@ -15,15 +15,21 @@ On both attack and defense, each player has a particular role to play. Regardles
 #### Attack Roles
 
 - Entry - It is the job of an entry player to make first contact and clear an opening for the rest of the team to follow. Common entry operators include Ash, Zofia, and Iana.
+
 - Support - Entry players cannot enter a room without knowing what's in it. It is the job of support players to be the eyes for entries, droning out a room for the entry player before they push. Support players often carry defuser and will likely be last into the building, though they should not be the player covering the rear as the team moves forward. Common support operators include Thermite, Capitao, and Gridlock.
+
 - Flex - Often, an operator doesn't fall into either the entry or support category. We call these operators "flex operators," as they often can be played as either way. WSU often employs flex operators to perform unique tasks or provide otherwise unavailable utility. Operators that lean more towards entry are called "flex-entry." Operators that lean more towards support are called "flex-support." Common flex-entry operators include Sledge, Buck, and Zero. Common flex-support operators include Nomad, Jackal, and Zero.
 
 #### Defense Roles
 
 - Anchor - Anchors sit on or very close to site. Thier main job is to lock down site and stall out the attackers as long as possible. In most situations, anchors should be careful when picking fights, and should usually prioritize their life above all else. Of course, exceptions occur. Common anchors include Smoke, Mira, and Maestro.
+
 - Roamer - Roamers can be broken into two different categories: interference and flank. Both types play off site, often far away from site. Common roamers include Jager, Mozzie, and Vigil.
+
   - Interference - Interference roamers start the round by playing in the expected path of the attackers. Their objective is normally to stall for time by lightly taking gunfights, falling back slowly towards site, shooting drones along the way. By burning attacker utility and drones, attackers are forced to take extra time to clear an area, which in turn gives them less time to make a push onto site.
+
   - Flank - Flank roamers start the round out of the expected path of the attackers. Their objective is to catch the attackers by surprise later in the round by getting behind them after they have moved forward enough for forget about the flank location. Often, flank roamers will get a quick kill, then immediately retreat.
+
 - Flex - Flex operators are those that can either anchor or roam. They may be used as onsite anchors, offsite anchors, and interference or flank roamers. Their objectives heavily depend on the strategy being employed. Common flex operators include Goyo, Valkyrie, and Aruni.
 
 ### Movement & Actions
