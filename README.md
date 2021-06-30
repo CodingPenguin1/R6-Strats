@@ -6,9 +6,9 @@
 
 [Callouts](#callouts)
 
-[Attack Philosophy](#attack-Philosophy)
+[Attack Philosophy](#attack-philosophy)
 
-[Defense Philosophy](#defense-Philosophy)
+[Defense Philosophy](#defense-philosophy)
 
 [Strategies](#strategies)
 
