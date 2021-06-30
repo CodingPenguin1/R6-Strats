@@ -1,9 +1,15 @@
-## Subtitle
+## Purpose
 
-wow a document
+## Attack Philosophy
 
-maybe i need to start with a ## header?
+## Defense Philosophy
 
-[attack strats](https://github.com/CodingPenguin1/R6-Strats/attack/attack.md)
+## Strategies
 
-[defense strats](defense/defense.md)
+[Chalet](maps/chalet/chalet.md)
+[Club House](maps/clubhouse/clubhouse.md)
+[Coastline](maps/coastline/coastline.md)
+[Consulate](maps/consulate/consulate.md)
+[Kafe](maps/kafe/kafe.md)
+[Oregon](maps/oregon/oregon.md)
+[Villa](maps/villa/villa.md)
