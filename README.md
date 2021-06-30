@@ -1,4 +1,4 @@
-# WSU Collegiate Esports Club Rainbow Six: Siege Stratbook
+# WSU Esports Rainbow Six: Siege Stratbook
 
 ## Table of Contents
 
