@@ -26,9 +26,9 @@ On both attack and defense, each player has a particular role to play. Regardles
 
 - Anchor - Anchors sit on or very close to site. Their main job is to lock down site and stall out the attackers as long as possible. In most situations, anchors should be careful when picking fights, and should usually prioritize their life above all else. Of course, exceptions occur. Common anchors include Smoke, Mira, and Maestro.
 
-- Roamer - Roamers can be broken into two different categories: interference and flank. Both types play off site, often far away from site. Common roamers include Jager, Mozzie, and Vigil.\
+- Roamer - Roamers can be broken into two different categories: interference and flank. Both types play off site, often far away from site. Common roamers include Jager, Mozzie, and Vigil.
 
-  - Interference - Interference roamers start the round by playing in the expected path of the attackers. Their objective is normally to stall for time by lightly taking gunfights, falling back slowly towards site, shooting drones along the way. By burning attacker utility and drones, attackers are forced to take extra time to clear an area, which in turn gives them less time to make a push onto site.\
+  - Interference - Interference roamers start the round by playing in the expected path of the attackers. Their objective is normally to stall for time by lightly taking gunfights, falling back slowly towards site, shooting drones along the way. By burning attacker utility and drones, attackers are forced to take extra time to clear an area, which in turn gives them less time to make a push onto site.
   - Flank - Flank roamers start the round out of the expected path of the attackers. Their objective is to catch the attackers by surprise later in the round by getting behind them after they have moved forward enough for forget about the flank location. Often, flank roamers will get a quick kill, then immediately retreat.
 
 - Flex - Flex operators are those that can either anchor or roam. They may be used as onsite anchors, offsite anchors, and interference or flank roamers. Their objectives heavily depend on the strategy being employed. Common flex operators include Goyo, Valkyrie, and Aruni.
