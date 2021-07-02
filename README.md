@@ -27,6 +27,7 @@ On both attack and defense, each player has a particular role to play. Regardles
 - Anchor - Anchors sit on or very close to site. Their main job is to lock down site and stall out the attackers as long as possible. In most situations, anchors should be careful when picking fights, and should usually prioritize their life above all else. Of course, exceptions occur. Common anchors include Smoke, Mira, and Maestro.
 
 - Roamer - Roamers can be broken into two different categories: interference and flank. Both types play off site, often far away from site. Common roamers include Jager, Mozzie, and Vigil.\
+
   - Interference - Interference roamers start the round by playing in the expected path of the attackers. Their objective is normally to stall for time by lightly taking gunfights, falling back slowly towards site, shooting drones along the way. By burning attacker utility and drones, attackers are forced to take extra time to clear an area, which in turn gives them less time to make a push onto site.\
   - Flank - Flank roamers start the round out of the expected path of the attackers. Their objective is to catch the attackers by surprise later in the round by getting behind them after they have moved forward enough for forget about the flank location. Often, flank roamers will get a quick kill, then immediately retreat.
 
@@ -89,16 +90,19 @@ In this situation, the operator name is either already known or irrelevant. The 
 
 Callouts should be made at any of the following points in time:
 
-- When you discover a new or updated location of an enemy\
-  - Any time an enemy is initally discovered\
-  - Any time an enemy moves between rooms, especially when moving towards a potentailly unaware teammate\
-  - Any time the enemy retreats or surrenders a position they were previously holding\
+- When you discover a new or updated location of an enemy
+
+  - Any time an enemy is initally discovered
+  - Any time an enemy moves between rooms, especially when moving towards a potentailly unaware teammate
+  - Any time the enemy retreats or surrenders a position they were previously holding
   - Note that calling out a specific location in a room is relevant if a teammate is ready to act on the information. At this time, it can be worth to continously call out locations (optionally standing/crouching/prone), so the entry player knows the exact location of the immediate threat. Do NOT flood comms with minor position adjustments if no one is ready to act on the information.
 
-- When you get a kill\
+- When you get a kill
+
   - Any time you get a kill, it is vital the team knows who died, and where. A void in a defensive hold is often a worthwile reason for attackers to push.
 
-- When you die\
+- When you die
+
   - Ideally, it should be impossible for the defenders to get a double kill. If an attacker dies, the location of the defender who killed them should be conveyed as quickly as possible so as to save the life of teammates, or ideally, for a teammate to refrag. The format may be modified to "`location`" or "`location`, `operator`" to help speed up communications. If a teammate is able to avenge you, or you avenge a teammate, the callout "refragged" is permittable, but only if the refrag was quick enough such that the rest of the callout would have been duplicated with the inital one.
 
 - When a known operator at a known location stays in that location, but does an action that immediately impacts the team or a teammate. For example, a Pulse playing in a basement below the attack vector is a noteworthy callout, but Pulse is a _massive_ threat to a teammate above. If the Pulse goes from playing laterally to his scanner, watching above, the teammate above needs to be notified. If a player suddenly comes under intense danger, it may be worthwile to call for players to evacuate or move before making a normal callout.
