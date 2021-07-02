@@ -2,14 +2,10 @@
 
 ## Table of Contents
 
-[Terminology](#terminology)
-
-[Callouts](#callouts)
-
-[Attack Philosophy](#attack-philosophy)
-
-[Defense Philosophy](#defense-philosophy)
-
+[Terminology](#terminology)\
+[Callouts](#callouts)\
+[Attack Philosophy](#attack-philosophy)\
+[Defense Philosophy](#defense-philosophy)\
 [Strategies](#strategies)
 
 ## Terminology
@@ -30,10 +26,8 @@ On both attack and defense, each player has a particular role to play. Regardles
 
 - Anchor - Anchors sit on or very close to site. Their main job is to lock down site and stall out the attackers as long as possible. In most situations, anchors should be careful when picking fights, and should usually prioritize their life above all else. Of course, exceptions occur. Common anchors include Smoke, Mira, and Maestro.
 
-- Roamer - Roamers can be broken into two different categories: interference and flank. Both types play off site, often far away from site. Common roamers include Jager, Mozzie, and Vigil.
-
-  - Interference - Interference roamers start the round by playing in the expected path of the attackers. Their objective is normally to stall for time by lightly taking gunfights, falling back slowly towards site, shooting drones along the way. By burning attacker utility and drones, attackers are forced to take extra time to clear an area, which in turn gives them less time to make a push onto site.
-
+- Roamer - Roamers can be broken into two different categories: interference and flank. Both types play off site, often far away from site. Common roamers include Jager, Mozzie, and Vigil.\
+  - Interference - Interference roamers start the round by playing in the expected path of the attackers. Their objective is normally to stall for time by lightly taking gunfights, falling back slowly towards site, shooting drones along the way. By burning attacker utility and drones, attackers are forced to take extra time to clear an area, which in turn gives them less time to make a push onto site.\
   - Flank - Flank roamers start the round out of the expected path of the attackers. Their objective is to catch the attackers by surprise later in the round by getting behind them after they have moved forward enough for forget about the flank location. Often, flank roamers will get a quick kill, then immediately retreat.
 
 - Flex - Flex operators are those that can either anchor or roam. They may be used as onsite anchors, offsite anchors, and interference or flank roamers. Their objectives heavily depend on the strategy being employed. Common flex operators include Goyo, Valkyrie, and Aruni.
@@ -73,10 +67,8 @@ As important as well-structured callouts are, the information they carry is more
 
 There is a very specific format callouts should follow. The format is as follows:
 
-`Operator` doing `action` at `location`
-
-or
-
+`Operator` doing `action` at `location`\
+or\
 `Operator` at `location` doing `action`
 
 For example, "Smoke holding red stairs" clearly tells players that there is a player holding red stairs. The fact that the callout includes the word "holding" means that the enemy is actively covering those stairs. This means that no one should push red without backup. Had the callout been "Smoke on red stairs," there may be reason to push the staircase, if the Smoke is unaware. The operator name, Smoke, tells you a lot about how to approach the situation. Smoke is an anchor, which means he will likely stay in that position unless dislodged or incentivized to move through some other method, like heavy pressure from another angle. Smoke players often run the shotgun, meaning that if the fight can be taken at long range, it might be a free kill. At short range, however, an attacker would be running towards certain death. Note that one should never decide on a potential life-threatening decision on the difference between "holding" and "on" in a callout.
@@ -87,10 +79,8 @@ The team has a running joke of a former player's callout, "Jager vibing on catwa
 
 If you are assisting a teammate in killing an enemy by using a drone or camera to spot the target for them, callouts can follow a different format:
 
-`location` doing `action`
-
-or
-
+`location` doing `action`\
+or\
 `location` `standing/crouching/prone` doing `action`
 
 In this situation, the operator name is either already known or irrelevant. The most pressing information is the location of the enemy. The faster you can provide your teammate with an accurate and detailed location of the enemy, the easier time your teammate will have taking them out.
@@ -99,20 +89,16 @@ In this situation, the operator name is either already known or irrelevant. The 
 
 Callouts should be made at any of the following points in time:
 
-- When you discover a new or updated location of an enemy
-
-  - Any time an enemy is initally discovered
-
-  - Any time an enemy moves between rooms, especially when moving towards a potentailly unaware teammate
-
-  - Any time the enemy retreats or surrenders a position they were previously holding
-
+- When you discover a new or updated location of an enemy\
+  - Any time an enemy is initally discovered\
+  - Any time an enemy moves between rooms, especially when moving towards a potentailly unaware teammate\
+  - Any time the enemy retreats or surrenders a position they were previously holding\
   - Note that calling out a specific location in a room is relevant if a teammate is ready to act on the information. At this time, it can be worth to continously call out locations (optionally standing/crouching/prone), so the entry player knows the exact location of the immediate threat. Do NOT flood comms with minor position adjustments if no one is ready to act on the information.
 
-- When you get a kill
+- When you get a kill\
   - Any time you get a kill, it is vital the team knows who died, and where. A void in a defensive hold is often a worthwile reason for attackers to push.
-- When you die
 
+- When you die\
   - Ideally, it should be impossible for the defenders to get a double kill. If an attacker dies, the location of the defender who killed them should be conveyed as quickly as possible so as to save the life of teammates, or ideally, for a teammate to refrag. The format may be modified to "`location`" or "`location`, `operator`" to help speed up communications. If a teammate is able to avenge you, or you avenge a teammate, the callout "refragged" is permittable, but only if the refrag was quick enough such that the rest of the callout would have been duplicated with the inital one.
 
 - When a known operator at a known location stays in that location, but does an action that immediately impacts the team or a teammate. For example, a Pulse playing in a basement below the attack vector is a noteworthy callout, but Pulse is a _massive_ threat to a teammate above. If the Pulse goes from playing laterally to his scanner, watching above, the teammate above needs to be notified. If a player suddenly comes under intense danger, it may be worthwile to call for players to evacuate or move before making a normal callout.
@@ -127,16 +113,10 @@ The team currently runs 2 entry, 1 flex/entry, 1 flex/support, and 1 dedicated s
 
 Here are our strategies for each map currently in the competitive pool:
 
-[Chalet](maps/chalet/chalet.md)
-
-[Club House](maps/clubhouse/clubhouse.md)
-
-[Coastline](maps/coastline/coastline.md)
-
-[Consulate](maps/consulate/consulate.md)
-
-[Kafe](maps/kafe/kafe.md)
-
-[Oregon](maps/oregon/oregon.md)
-
+[Chalet](maps/chalet/chalet.md)\
+[Club House](maps/clubhouse/clubhouse.md)\
+[Coastline](maps/coastline/coastline.md)\
+[Consulate](maps/consulate/consulate.md)\
+[Kafe](maps/kafe/kafe.md)\
+[Oregon](maps/oregon/oregon.md)\
 [Villa](maps/villa/villa.md)
