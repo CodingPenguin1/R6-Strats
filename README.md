@@ -1,5 +1,7 @@
 # WSU Esports Rainbow Six: Siege Stratbook
 
+Hosted at https://codingpenguin1.github.io/R6-Strats/
+
 ## Table of Contents
 
 [Terminology](#terminology)\
