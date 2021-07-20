@@ -25,7 +25,7 @@
 [Aviator/Bar - Study Take](#avi-take)\
 [Aviator/Bar - Red Take](#red-take)\
 [Aviator/Bar - Bar Take](#bar-take)\
-[Trophy/Statue - Master Take](#master-take)\
+[Trophy/Statue - Master Take](#master-take)
 
 ### Aviator/Bar
 
