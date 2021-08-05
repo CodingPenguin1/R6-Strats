@@ -49,4 +49,4 @@ _Need_ at least 4 people, probably 5. 9 times out of 10 it's a bad idea to audib
 
 Super frag heavy. Plant unlikely
 
-![Master Take](images/master_take.png)
+![Master Take](images/statue_master_take.png)

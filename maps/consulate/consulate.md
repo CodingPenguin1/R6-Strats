@@ -1,6 +1,6 @@
 # Consulate
 
-[Callouts](#callouts)\
+[Callouts](#callouts)
 [Attack Strategies](#attack-strategies)\
 [Defense Strategies](#defense-strategies)
 

@@ -17,3 +17,7 @@
 ### Third Floor
 
 ![Third Floor](images/kafe_third_floor_callouts.png)
+
+## Defense Strategies
+
+![Kafe Kitchen Freezer Defense](images/Kafe_Kitchen_Freezer_Def.PNG)
